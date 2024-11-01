@@ -1,0 +1,5 @@
+<ClientConfig>
+	<GameClient name="Hot Pepper Payout WLA" clientCode="mobile" technology="HTML" height="600" width="800" meterheight="0" meterwidth="10" gameFolder="HotPepperPayout" enableFreeSpin="Y" clientversion="1.0" gameId="300-2211-0" />
+	<GameClient name="Hot Pepper Payout WLA" clientCode="tablet" technology="HTML" height="600" width="800" meterheight="0" meterwidth="10" gameFolder="HotPepperPayout" enableFreeSpin="Y" clientversion="1.0" gameId="300-2211-0" />
+	<GameClient name="Hot Pepper Payout WLA" clientCode="desktop" technology="HTML" height="600" width="800" meterheight="0" meterwidth="10" gameFolder="HotPepperPayout" enableFreeSpin="Y" clientversion="1.0" gameId="300-2211-0" />
+</ClientConfig>
